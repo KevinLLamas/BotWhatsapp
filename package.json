@@ -18,8 +18,10 @@
     "file-type": "^16.5.3",
     "mime-db": "^1.50.0",
     "moment": "^2.29.1",
+    "mysql2": "^2.3.2",
     "ora": "^5.4.1",
     "qrcode-terminal": "^0.12.0",
+    "sequelize": "^6.8.0",
     "whatsapp-web.js": "^1.14.1",
     "xlsx": "^0.16.9"
   }
